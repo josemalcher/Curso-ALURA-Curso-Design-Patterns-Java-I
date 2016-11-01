@@ -2,6 +2,11 @@
 .recommenders
 RemoteSystemsTempFiles/
 
+01-Design-Patterns/bin
+01-Design-Patterns/.settings
+01-Design-Patterns/.classpath
+01-Design-Patterns/.project
+
 #bin
 #.settings
 #.classpath
